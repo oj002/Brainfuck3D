@@ -17,4 +17,9 @@
   <ItemGroup>
     <None Include=".clang_tidy" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
